@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/MuhammadHarmainAkhtar/MuhammadHarmainAkhtar/blob/main/Orange%20Modern%20Technology%20LinkedIn%20Banner.gif)
 <div align="center">
     <h1 style="font-size: 2.5em;">💫 About Me</h1>
 </div>
