@@ -5,8 +5,8 @@
 <br>
 I am a dynamic and dedicated professional with a strong foundation in programming, web development, and effective communication. Proficient in languages such as C, C++, Java, and Vanilla JavaScript, I excel in building robust and efficient software solutions. My expertise extends to web development, utilizing HTML5, Tailwind CSS, and React.js to craft user-friendly, responsive, and visually appealing websites.<br>
 <br>
-Beyond technical skills, I am passionate about problem-solving and thrive in environments that demand innovative solutions and creative thinking. With strong public speaking and presentation skills, I effectively communicate complex ideas to diverse audiences, ensuring clarity and engagement. Fluent in English, I bring exceptional communication and collaboration abilities to every project.
-
+Beyond technical skills, I am passionate about problem-solving and thrive in environments that demand innovative solutions and creative thinking. With strong public speaking and presentation skills, I effectively communicate complex ideas to diverse audiences, ensuring clarity and engagement. Fluent in English, I bring exceptional communication and collaboration abilities to every project.<br>
+<br>
 As someone who values continuous growth, I am eager to leverage my skills and experiences to create impactful solutions and contribute to the success of forward-thinking organizations.
 
 
