@@ -1,4 +1,4 @@
-# 💫 About Me ![Waving Hand](https://your-hosted-url.com/waving-hand.gif)
+# 💫 About Me <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWs0N2g2OHFoaXpkZWg5bmZtOW9pbXFmamh1bmt5cHlscDlpMTZpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mWUdDN7nA5OSebwehw/giphy.webp" width="200">
 🔭 I’m currently working on MERN Stack.<br>🌱 I’m currently learning Redux.<br>💬 Ask me about Vanilla JavaScript, React.js.<br>⚡ Fun fact : JavaScript was created in just 10 days by Brendan Eich in May 1995.
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAxbGZwZDIydnA5cnd1c3RmdjcydmF4ZHU5MGs1dXQwcnZ1bTc0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yPRo73ILrGjny/giphy.webp" width="500">
