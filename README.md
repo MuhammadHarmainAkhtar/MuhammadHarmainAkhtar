@@ -21,6 +21,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<div>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWs0N2g2OHFoaXpkZWg5bmZtOW9pbXFmamh1bmt5cHlscDlpMTZpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mWUdDN7nA5OSebwehw/giphy.webp" width="500">
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=muhammadharmainakhtar&icon=0&color=0)](https://visitcount.itsvg.in)
 
