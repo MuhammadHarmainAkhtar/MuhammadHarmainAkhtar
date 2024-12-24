@@ -1,6 +1,6 @@
 <div align="center">
     <h1 style="font-size: 2.5em;">💫 About Me</h1>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWs0N2g2OHFoaXpkZWg5bmZtOW9pbXFmamh1bmt5cHlscDlpMTZpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mWUdDN7nA5OSebwehw/giphy.webp" width="150" align="right">
+   
 </div>
 <br>
 
