@@ -9,8 +9,7 @@ Beyond technical skills, I am passionate about problem-solving and thrive in env
 <br>
 As someone who values continuous growth, I am eager to leverage my skills and experiences to create impactful solutions and contribute to the success of forward-thinking organizations.<br>
 
-<br>
-🔭 I’m currently working on Front End Development.<br>🌱 I’m currently learning Redux.<br>💬 Ask me about Vanilla JavaScript and React.js.<br>⚡ Fun fact : JavaScript was created in just 10 days by Brendan Eich in May 1995.
+<br>💬 Ask me about Vanilla JavaScript and React.js.<br>⚡ Fun fact : JavaScript was created in just 10 days by Brendan Eich in May 1995.
 
 <div style="margin-top: 50px;"> <!-- Increased margin-top -->
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAxbGZwZDIydnA5cnd1c3RmdjcydmF4ZHU5MGs1dXQwcnZ1bTc0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yPRo73ILrGjny/giphy.webp" width="500" align="center">
