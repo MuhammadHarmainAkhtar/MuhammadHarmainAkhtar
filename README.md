@@ -1,3 +1,4 @@
+![logo]()
 <div align="center">
     <h1 style="font-size: 2.5em;">💫 About Me</h1>
 </div>
