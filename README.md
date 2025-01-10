@@ -13,7 +13,7 @@ Tools: Clerk for authentication and Git for version control.<br><br>
 With a blend of technical knowledge and interpersonal skills, I am committed to delivering impactful solutions and making meaningful contributions to any development team.<br>
 <br>💬 Ask me about Vanilla JavaScript and React.js.<br>⚡ Fun fact : JavaScript was created in just 10 days by Brendan Eich in May 1995.
 
-<div style="margin-top: 50px;"> <!-- Increased margin-top -->
+<div style="margin-top: 50px;">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAxbGZwZDIydnA5cnd1c3RmdjcydmF4ZHU5MGs1dXQwcnZ1bTc0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yPRo73ILrGjny/giphy.webp" width="500" align="center">
 </div>
 
@@ -25,5 +25,3 @@ With a blend of technical knowledge and interpersonal skills, I am committed to 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muhammadharmainakhtar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
