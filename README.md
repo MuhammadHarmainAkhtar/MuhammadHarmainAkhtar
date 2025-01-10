@@ -7,9 +7,9 @@ I am a passionate Full-Stack Developer dedicated to building high-quality, respo
 <br><br>
 My technical expertise includes:
 <br><br>
-Front-End: HTML5, Tailwind CSS, GSAP for animations, JavaScript, React, and Next.js.<br><br>
-Back-End: NestJS, Node.js, GraphQL, and PostgreSQL.<br><br>
-Tools: Clerk for authentication and Git for version control.<br><br><br>
+Front-End: HTML5, Tailwind CSS, GSAP for animations, JavaScript, React, and Next.js.<br>
+Back-End: NestJS, Node.js, GraphQL, and PostgreSQL.<br>
+Tools: Clerk for authentication and Git for version control.<br><br>
 With a blend of technical knowledge and interpersonal skills, I am committed to delivering impactful solutions and making meaningful contributions to any development team.<br>
 <br>💬 Ask me about Vanilla JavaScript and React.js.<br>⚡ Fun fact : JavaScript was created in just 10 days by Brendan Eich in May 1995.
 
