@@ -3,11 +3,14 @@
     <h1 style="font-size: 2.5em;">💫 About Me</h1>
 </div>
 <br>
-I am a dynamic and dedicated professional with a strong foundation in programming, web development, and effective communication. Proficient in languages such as C, C++, Java, and Vanilla JavaScript, I excel in building robust and efficient software solutions. My expertise extends to web development, utilizing HTML5, Tailwind CSS, and React.js to craft user-friendly, responsive, and visually appealing websites.<br>
-<br>
-Beyond technical skills, I am passionate about problem-solving and thrive in environments that demand innovative solutions and creative thinking. With strong public speaking and presentation skills, I effectively communicate complex ideas to diverse audiences, ensuring clarity and engagement. Fluent in English, I bring exceptional communication and collaboration abilities to every project.<br>
-<br>
-As someone who values continuous growth, I am eager to leverage my skills and experiences to create impactful solutions and contribute to the success of forward-thinking organizations.<br>
+I am a passionate Full-Stack Developer dedicated to building high-quality, responsive, and dynamic web applications. I have a strong foundation in both front-end and back-end technologies, allowing me to create seamless user experiences and efficient server-side solutions. As a confident public speaker with excellent communication skills, I thrive in collaborative environments where ideas flow freely and projects succeed through teamwork.
+
+My technical expertise includes:
+
+Front-End: HTML5, Tailwind CSS, GSAP for animations, JavaScript, React, and Next.js.
+Back-End: NestJS, Node.js, GraphQL, and PostgreSQL.
+Tools: Clerk for authentication and Git for version control.
+With a blend of technical knowledge and interpersonal skills, I am committed to delivering impactful solutions and making meaningful contributions to any development team.
 
 <br>💬 Ask me about Vanilla JavaScript and React.js.<br>⚡ Fun fact : JavaScript was created in just 10 days by Brendan Eich in May 1995.
 
