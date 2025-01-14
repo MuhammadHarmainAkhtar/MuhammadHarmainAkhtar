@@ -4,7 +4,7 @@
 </div>
 <br>
 I am a versatile Full-Stack Developer passionate about building dynamic, efficient, and user-focused web applications. With strong technical expertise and a commitment to delivering high-quality results, I thrive in creating seamless digital experiences. As a confident public speaker with excellent communication skills, I bring a collaborative mindset and the ability to present ideas clearly, making me a valuable asset to any team or project.<br><br>
-<br>💬 Ask me about Vanilla JavaScript and React.js.<br>⚡ Fun fact : JavaScript was created in just 10 days by Brendan Eich in May 1995.
+⚡ Fun fact : JavaScript was created in just 10 days by Brendan Eich in May 1995.
 
 
 # 💻 Tech Stack:
